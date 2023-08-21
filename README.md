@@ -56,12 +56,12 @@ Our code is coming soon.
 
 ## Results
 
-###Comparison before and after mask enhancement
+### Comparison before and after mask enhancement
 
 ![mask enhancement](enhancement.png)
 
 
-###Comparison before and after segmentation prediction
+### Comparison before and after segmentation prediction
 
 ![segmentation prediction](prediction.png)
 
