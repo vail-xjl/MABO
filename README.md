@@ -50,8 +50,8 @@ Our code is coming soon.
 
 ## Evaluation
 
-| Method | Dataset | Segmentation | valid | test | 
-|:------:|:-------:|:------------:|:-----:|:----:|
+| Method | Dataset | Segmentation | val | test | 
+|:------:|:-------:|:------------:|:---:|:----:|
 | MABO | Pascal VOC 2012 | DeeplabV2(Res101) | 76.17%[link](http://host.robots.ox.ac.uk:8080/anonymous/VV2G1N.html) | 76.19%[link](http://host.robots.ox.ac.uk:8080/anonymous/KKXXBD.html) |
 
 ## Results
